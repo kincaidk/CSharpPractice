@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kelle\\OneDrive\\Documents\\CSharpProjects\\StringBuilder\\StringBuilder.csproj",
+      "projectUniqueName": "C:\\Users\\kelle\\OneDrive\\Documents\\CSharpProjects\\Strings\\Builder\\StringBuilder.csproj",
       "projectName": "StringBuilder",
-      "projectPath": "C:\\Users\\kelle\\OneDrive\\Documents\\CSharpProjects\\StringBuilder\\StringBuilder.csproj",
+      "projectPath": "C:\\Users\\kelle\\OneDrive\\Documents\\CSharpProjects\\Strings\\Builder\\StringBuilder.csproj",
       "packagesPath": "C:\\Users\\kelle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kelle\\OneDrive\\Documents\\CSharpProjects\\StringBuilder\\obj\\",
+      "outputPath": "C:\\Users\\kelle\\OneDrive\\Documents\\CSharpProjects\\Strings\\Builder\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kelle\\AppData\\Roaming\\NuGet\\NuGet.Config"
