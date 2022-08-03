@@ -28,7 +28,7 @@ namespace NumberGuessingGame
             // Generate target number.
             int targetNumber = new Random().Next(20);
 
-            // Create variable that will hold the integer guess from the user.
+            // Create variable that will hold the user's guess.
             int numberGuessInt;
 
             // Initialize guessCount.
