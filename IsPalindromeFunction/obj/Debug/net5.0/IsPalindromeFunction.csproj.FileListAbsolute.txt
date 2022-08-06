@@ -1,0 +1,16 @@
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\IsPalindromeFunction.csproj.AssemblyReference.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\IsPalindromeFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\IsPalindromeFunction.AssemblyInfoInputs.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\IsPalindromeFunction.AssemblyInfo.cs
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\IsPalindromeFunction.csproj.CoreCompileInputs.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\bin\Debug\net5.0\IsPalindromeFunction.exe
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\bin\Debug\net5.0\IsPalindromeFunction.deps.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\bin\Debug\net5.0\IsPalindromeFunction.runtimeconfig.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\bin\Debug\net5.0\IsPalindromeFunction.runtimeconfig.dev.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\bin\Debug\net5.0\IsPalindromeFunction.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\bin\Debug\net5.0\ref\IsPalindromeFunction.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\bin\Debug\net5.0\IsPalindromeFunction.pdb
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\IsPalindromeFunction.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\ref\IsPalindromeFunction.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\IsPalindromeFunction.pdb
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\IsPalindromeFunction\obj\Debug\net5.0\IsPalindromeFunction.genruntimeconfig.cache
