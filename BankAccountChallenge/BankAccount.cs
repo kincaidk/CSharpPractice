@@ -34,6 +34,9 @@ namespace BankAccountChallenge
             set => _accountOwner = value;
         }
 
+        public string AccountType {
+            get => _accountType;
+        }
 
     }
 }
