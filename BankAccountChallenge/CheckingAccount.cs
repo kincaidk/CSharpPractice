@@ -15,10 +15,10 @@ namespace BankAccountChallenge
         // Methods
         public override void Withdraw(decimal amount) {
             if (amount <= _balance) {
-                _balance -= amount;
+                base.Withdraw(amount);
             } else {
                 Console.WriteLine($"CHECKING OVERDRAFT - EXTRA CHARGE OF {OVERDRAFT_CHARGE:C2}.");
-                _balance -= (amount + OVERDRAFT_CHARGE);
+                base.Withdraw(amount + OVERDRAFT_CHARGE);
             }
         }
     }

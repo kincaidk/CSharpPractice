@@ -25,9 +25,9 @@ namespace BankAccountChallenge
 
         public override void Withdraw(decimal amount) {
             if (amount <= _balance) {
-                _balance -= amount;
+                base.Withdraw(amount);
                 if (++_withdrawalCount > EXCESSIVE_WITHDRAWAL_THRESHOLD) {
-                    _balance -= EXCESSIVE_WITHDRAWAL_CHARGE;
+                    base.Withdraw(EXCESSIVE_WITHDRAWAL_CHARGE);
                     Console.WriteLine($"MORE THAN {EXCESSIVE_WITHDRAWAL_THRESHOLD} WITHDRAWALS - EXTRA CHARGE OF {EXCESSIVE_WITHDRAWAL_CHARGE:C2}.");
                 }
             } else {
