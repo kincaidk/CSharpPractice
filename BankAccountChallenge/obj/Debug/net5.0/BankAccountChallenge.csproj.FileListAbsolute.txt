@@ -1,0 +1,16 @@
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\BankAccountChallenge.csproj.AssemblyReference.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\BankAccountChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\BankAccountChallenge.AssemblyInfoInputs.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\BankAccountChallenge.AssemblyInfo.cs
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\BankAccountChallenge.csproj.CoreCompileInputs.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\bin\Debug\net5.0\BankAccountChallenge.exe
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\bin\Debug\net5.0\BankAccountChallenge.deps.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\bin\Debug\net5.0\BankAccountChallenge.runtimeconfig.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\bin\Debug\net5.0\BankAccountChallenge.runtimeconfig.dev.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\bin\Debug\net5.0\BankAccountChallenge.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\bin\Debug\net5.0\ref\BankAccountChallenge.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\bin\Debug\net5.0\BankAccountChallenge.pdb
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\BankAccountChallenge.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\ref\BankAccountChallenge.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\BankAccountChallenge.pdb
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\BankAccountChallenge\obj\Debug\net5.0\BankAccountChallenge.genruntimeconfig.cache

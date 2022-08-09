@@ -14,14 +14,14 @@ namespace BankAccountChallenge
 
             // Check the balances.
             // Expected output should be 2500 and 1000 at this point.
-            Console.WriteLine($"Checkings balance is {checking.Balance:C2}");
+            Console.WriteLine($"Checking balance is {checking.Balance:C2}");
             Console.WriteLine($"Savings balance is {saving.Balance:C2}");
 
             // Print the account owner information. Expected output:
             // "Checking owner: John Doe"
             // "Savings owner: Jane Doe"
             Console.WriteLine($"Checking owner: {checking.AccountOwner}");
-            Console.WriteLine($"Checking owner: {saving.AccountOwner}");
+            Console.WriteLine($"Savings owner: {saving.AccountOwner}");
 
             // Deposit some money in each account.
             checking.Deposit(200.0m);
@@ -30,7 +30,7 @@ namespace BankAccountChallenge
             // Check the balances.
             // Expected output should be 2700 and 1150 at this point.
             Console.WriteLine($"Checking balance is {checking.Balance:C2}");
-            Console.WriteLine($"Checking balance is {saving.Balance:C2}");
+            Console.WriteLine($"Savings balance is {saving.Balance:C2}");
 
             // Make some withdrawals form each account.
             checking.Withdraw(50.0m);
@@ -39,7 +39,7 @@ namespace BankAccountChallenge
             // Check the balances.
             // Expected output should be 2650 and 1025 at this point.
             Console.WriteLine($"Checking balance is {checking.Balance:C2}");
-            Console.WriteLine($"Checking balance is {saving.Balance:C2}");
+            Console.WriteLine($"Savings balance is {saving.Balance:C2}");
 
             // Apply the Savings interest.
             saving.ApplyInterest();
@@ -61,7 +61,7 @@ namespace BankAccountChallenge
 
             // Expected output should be -385 and 988.63.
             Console.WriteLine($"Checking balance is {checking.Balance:C2}");
-            Console.WriteLine($"Checking balance is {saving.Balance:C2}");
+            Console.WriteLine($"Savings balance is {saving.Balance:C2}");
 
         }
     }

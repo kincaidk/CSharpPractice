@@ -17,7 +17,7 @@ namespace BankAccountChallenge
             if (amount <= _balance) {
                 _balance -= amount;
             } else {
-                Console.WriteLine($"CHECKING OVERDRAFT");
+                Console.WriteLine($"CHECKING OVERDRAFT - EXTRA CHARGE OF {OVERDRAFT_CHARGE:C2}.");
                 _balance -= (amount + OVERDRAFT_CHARGE);
             }
         }

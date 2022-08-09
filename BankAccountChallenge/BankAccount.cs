@@ -5,9 +5,9 @@ namespace BankAccountChallenge
     class BankAccount
     {
         // Fields
-        private string _accountType; // Checking or Savings
-        private decimal _balance;
-        private string _accountOwner; // "{firstName} {lastName}"
+        protected string _accountType; // Checking or Savings
+        protected decimal _balance;
+        protected string _accountOwner; // "{firstName} {lastName}"
 
         // Constructor
         public BankAccount(string firstName, string lastName, decimal initialBalance) {
