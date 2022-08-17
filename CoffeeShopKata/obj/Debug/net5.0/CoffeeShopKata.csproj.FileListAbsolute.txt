@@ -1,0 +1,16 @@
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\CoffeeShopKata.csproj.AssemblyReference.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\CoffeeShopKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\CoffeeShopKata.AssemblyInfoInputs.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\CoffeeShopKata.AssemblyInfo.cs
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\CoffeeShopKata.csproj.CoreCompileInputs.cache
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\bin\Debug\net5.0\CoffeeShopKata.exe
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\bin\Debug\net5.0\CoffeeShopKata.deps.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\bin\Debug\net5.0\CoffeeShopKata.runtimeconfig.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\bin\Debug\net5.0\CoffeeShopKata.runtimeconfig.dev.json
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\bin\Debug\net5.0\CoffeeShopKata.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\bin\Debug\net5.0\ref\CoffeeShopKata.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\bin\Debug\net5.0\CoffeeShopKata.pdb
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\CoffeeShopKata.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\ref\CoffeeShopKata.dll
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\CoffeeShopKata.pdb
+C:\Users\kelle\OneDrive\Documents\CSharpProjects\CoffeeShopKata\obj\Debug\net5.0\CoffeeShopKata.genruntimeconfig.cache
